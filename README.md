@@ -1,4 +1,4 @@
-# portfolio Jeftar Mascarenhas
+# Portfolio Jeftar Mascarenhas
 
 ## Dados 
 
@@ -36,22 +36,29 @@ portais, blogs, e-comerce, etc…)
 * Template engine Jade, Handlebars, EJS
 * Api's do Facebook, Twiiter e Google
 * PHP(básico), MYSQL(básico)
-* Compreensão do inglês e do espanhol
+* Compreensão do inglês 
 
-## Experiência Profissional:
+## Experiência Profissional
 
 __Leet Tech__ – Desenvolvedor pleno.
+
 __Ellomilhas__ – Front-end develope.
+
 __Level System/Botan Acessórios__ – Front-end e Ecommerce menager.
+
 __Aporte Comunicação__ – Desenvolvimento de blogs e portais utilizando wordpress e NodeJS.
+
 __Freelance__ – novembro/2014 até Janeiro de 2015
+
 __Receba em Casa__ – Front end, desenvolvi temas para ecommerce
+
 __Logitravel__ – Front end e UI Design, Desenvolvimento do Ecommerce de Viagem da Logitravel Brasil e newsletters
 
 
 ## Cases que trabalhei
 
 Instamizer: [https://instamizer.com/](https://instamizer.com/)
+
 Turbogram: [https://turbogram.me/](https://turbogram.me/)
 
 ## Alguns Trabalhos
@@ -78,3 +85,23 @@ __Infolight__
 Desenvolvi o front end para o site da empresa info, quando trabalhava para a
 Nuvon Comunicação Digital,
 Link: [http://www.infolight.com.br/](http://www.infolight.com.br/)
+
+## Social
+
+__Facebook__
+https://www.facebook.com/jeftar.mascarenhas
+
+__Twitter__
+https://www.twitter.com/jeftar
+
+__Github__
+https://github.com/jeftarmascarenhas/
+
+__Codepen__
+http://codepen.io/jeftar/
+
+## Formação
+
+Analise de desenvolvendo de sistemas – em andamento.
+Curso Técnico de Web Developer na Microcamp.
+Curso Técnico Rede de computadores no CEFET Pernambuco.
