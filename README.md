@@ -40,9 +40,41 @@ portais, blogs, e-comerce, etc…)
 
 ## Experiência Profissional:
 
-_Leet Tech_ – Desenvolvedor pleno.
-_Ellomilhas_ – Front-end develope.
-_Level System/Botan Acessórios_ – Front-end e Ecommerce menager.
-_Aporte Comunicação_ – Desenvolvimento de blogs e portais utilizando wordpress e NodeJS.
+__Leet Tech__ – Desenvolvedor pleno.
+__Ellomilhas__ – Front-end develope.
+__Level System/Botan Acessórios__ – Front-end e Ecommerce menager.
+__Aporte Comunicação__ – Desenvolvimento de blogs e portais utilizando wordpress e NodeJS.
+__Freelance__ – novembro/2014 até Janeiro de 2015
+__Receba em Casa__ – Front end, desenvolvi temas para ecommerce
+__Logitravel__ – Front end e UI Design, Desenvolvimento do Ecommerce de Viagem da Logitravel Brasil e newsletters
 
 
+## Cases que trabalhei
+
+Instamizer: [https://instamizer.com/](https://instamizer.com/)
+Turbogram: [https://turbogram.me/](https://turbogram.me/)
+
+## Alguns Trabalhos
+__Turbogram site - Responsivo__
+Desenvolvi o UI Design, Front-end
+para empresa Botan Acessórios.
+Link: [https://turbogram.me/](https://turbogram.me/)
+
+ 
+__Botan Acessórios Ecommerce - Responsivo__
+Desenvolvi o UI Design, Front-end, Instação de customização do CMS Magento
+para empresa Botan Acessórios.
+Link: [http://botanacessorios.com.br/](http://botanacessorios.com.br/)
+
+__Botan Acessórios Blog - Responsivo__
+Desenvolvi o UI Design, Front-end e back-end Php com Worpdress para empresa Botan Acessórios.
+Link: [http://blog.botanacessorios.com.br/](http://blog.botanacessorios.com.br/)
+ 
+__Vaccine - Responsivo__
+Front-end do site Vaccine, serviço para empresa Aporte Comunicação.
+Link: [http://www.vaccine.com.br/](http://www.vaccine.com.br/)
+
+__Infolight__
+Desenvolvi o front end para o site da empresa info, quando trabalhava para a
+Nuvon Comunicação Digital,
+Link: [http://www.infolight.com.br/](http://www.infolight.com.br/)
