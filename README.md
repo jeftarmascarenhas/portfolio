@@ -26,7 +26,7 @@ portais, blogs, e-comerce, etc…)
 
 ## Habilidades 
 
-* Angularjs, Javascript, jQuery, Emascript 6, HTML5, CSS3, Node Js, Express
+* Javascript, Angularjs, Reactjs, jQuery, Emascript 6, HTML5, CSS3, Node Js, Express
 * Sass, Less, Compass, Stylus, Skeleton, Twitter Bootstrap, Angular Material
 * UI Design, UX Design, Arquitetura de Informação, Scrum
 * Ionic Framework
