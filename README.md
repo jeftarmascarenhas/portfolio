@@ -1,6 +1,6 @@
 # Currículo Jeftar Mascarenhas
 
-## Dados 
+## Dados
 
 Recife, Pe
 
@@ -16,15 +16,14 @@ inovadora para os usuários dos serviços e produtos no qual a empresa oferece.
 Estou sempre estudando e mantendo-me motivado para assim conquistar o
 espaço na empresa e mas importante para mim é o relacionamento em equipe e amar o que faço.
 
-## Perfil profissional 
+## Perfil profissional
 
-* Interesse e experiência na área de desenvolvimento de websites (parallax,
-portais, blogs, e-comerce, etc…)
+* Interesse e experiência na área de desenvolvimento de websites (parallax, portais, blogs, e-comerce, etc…) Sistemas web
 * Interesse e experiência na área de aplicações para web com javascript,
-* jQuery, Angular, Single Page Application
-* Interesse em palestrar para workshop e eventos front end
+* jQuery, Angularjs, Reactjs, Single Page Application
+* Interesse em palestrar para workshop e eventos front-end
 
-## Habilidades 
+## Habilidades
 
 * Javascript, Angularjs, Reactjs, jQuery, Emascript 6, HTML5, CSS3, Node Js, Express
 * Sass, Less, Compass, Stylus, Skeleton, Twitter Bootstrap, Angular Material
@@ -38,7 +37,7 @@ portais, blogs, e-comerce, etc…)
 * Template engine Jade, Handlebars, EJS
 * Api's do Facebook, Twiiter e Google
 * PHP(básico), MYSQL(básico)
-* Compreensão do inglês 
+* Compreensão do inglês
 
 ## Experiência Profissional
 
@@ -69,7 +68,7 @@ Desenvolvi o UI Design, Front-end
 para empresa Botan Acessórios.
 Link: [https://turbogram.me/](https://turbogram.me/)
 
- 
+
 __Botan Acessórios Ecommerce - Responsivo__
 Desenvolvi o UI Design, Front-end, Instação de customização do CMS Magento
 para empresa Botan Acessórios.
@@ -78,7 +77,7 @@ Link: [http://botanacessorios.com.br/](http://botanacessorios.com.br/)
 __Botan Acessórios Blog - Responsivo__
 Desenvolvi o UI Design, Front-end e back-end Php com Worpdress para empresa Botan Acessórios.
 Link: [http://blog.botanacessorios.com.br/](http://blog.botanacessorios.com.br/)
- 
+
 __Vaccine - Responsivo__
 Front-end do site Vaccine, serviço para empresa Aporte Comunicação.
 Link: [http://www.vaccine.com.br/](http://www.vaccine.com.br/)
@@ -104,6 +103,6 @@ http://codepen.io/jeftar/
 
 ## Formação
 
-Analise de desenvolvendo de sistemas – em andamento.
-Curso Técnico de Web Developer na Microcamp.
-Curso Técnico Rede de computadores no CEFET Pernambuco.
+Analise de desenvolvendo de sistemas(Estácio) – em andamento.
+Curso Técnico de Web Developer na Microcamp(Finalizado).
+Curso Técnico Rede de computadores no CEFET Pernambuco(Finalizado).
